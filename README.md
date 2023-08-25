@@ -1,9 +1,9 @@
 # Intern_Savy_Tasks
-InternSavy Tasks 
-#TASK 1:
+
+TASK 1:
 Use classification technique for prediction of Graduate Admissions from an Indian perspective
 
-#TASK 2:
+TASK 2:
 Customer Segmentation Analysis with Python
 
 TASK 3:
